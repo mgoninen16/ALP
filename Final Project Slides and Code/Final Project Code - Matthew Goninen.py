@@ -5,7 +5,7 @@ import playsound
 import openai
 import os
 
-gptKey = "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"
+gptKey = "INPUT YOUR KEY HERE"
 
 name = "JOHN"
 admin = "Matthew"
