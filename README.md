@@ -14,8 +14,12 @@ In July of 2023, I had the pleasure of taking part in the Accelerated Learning P
 -Algorithms (such as Binary Search)
 -Basics of CMD Line/Terminal, Conda, and Git
 
-For my final project, I used the API for OpenAI's text-davinci-003 model and put it in a program with gTTS (Google Text-To-Speech), playsound, and SpeechRecognition to make an AI Chatbot with Voice Input and Voice Output (in Multiple Languages).
-
 Files from ALL of my work throughout this course can be found in this GitHub Repository.
 
 I would like to thank my teachers Anosh Wasker and Rama Ranganath for teaching this course. Their knowledge has been a valuble asset as I have worked to achieve a basline understanding of programming and computer science theory. I would also like to thank the University of Wisconsin-Madison for setting up this program.
+
+
+## Final Project - About and Use
+For my final project, I used the API for OpenAI's text-davinci-003 model and put it in a program with gTTS (Google Text-To-Speech), playsound, and SpeechRecognition to make an AI Chatbot with Voice Input and Voice Output (in Multiple Languages).
+
+To use the final project, download the .py file nii the Final Project folder. Input your personal API key. Alternatively, if you use Jupyter Notebook, you can run the program directly in there by downloading the .ipynb file.
